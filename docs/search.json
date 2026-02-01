@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Software: PEAXAI (R package, CRAN, 2025). DOI: \n\nManuscripts (under review):\n\nProbability-based technical efficiency analysis through machine learning.\n\nArtificial intelligence methodologies in efficiency and productivity analysis: State of the art."
+  },
+  {
+    "objectID": "research.html#publications-research-outputs",
+    "href": "research.html#publications-research-outputs",
+    "title": "Research",
+    "section": "",
+    "text": "Software: PEAXAI (R package, CRAN, 2025). DOI: \n\nManuscripts (under review):\n\nProbability-based technical efficiency analysis through machine learning.\n\nArtificial intelligence methodologies in efficiency and productivity analysis: State of the art."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research interests",
+    "text": "Research interests\n\nCausal inference for decision-making (treatment effects, policy evaluation, uplift)\n\nMachine learning with calibrated uncertainty\n\nInterpretability and counterfactual explanations"
+  },
+  {
+    "objectID": "research.html#talks-community",
+    "href": "research.html#talks-community",
+    "title": "Research",
+    "section": "Talks / community",
+    "text": "Talks / community\n\nAdd talks, posters, seminars, workshops (even internal research seminars)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are projects selected to match Research Scientist (Causal Inference + ML) roles: problem framing, clean methodology, and decision relevance."
+  },
+  {
+    "objectID": "projects.html#causal-inference-estimating-treatment-effects-template",
+    "href": "projects.html#causal-inference-estimating-treatment-effects-template",
+    "title": "Projects",
+    "section": "1) Causal Inference: Estimating Treatment Effects (template)",
+    "text": "1) Causal Inference: Estimating Treatment Effects (template)\n\nGoal. Estimate the causal impact of an intervention (e.g., a feature rollout or creator program) on an outcome metric.\nWhat I show. - Causal graph (DAG) and identification assumptions\n- Estimation (e.g., propensity scores, doubly robust / DML)\n- Sensitivity analysis and robustness checks\n- “So what?” section: what decision changes\nArtifacts. - Notebook: projects/causal_ate.ipynb (add your link)\n- Short write-up: posts/causal-inference-dags.qmd"
+  },
+  {
+    "objectID": "projects.html#music-market-analysis-using-spotify-web-api-msc-thesis",
+    "href": "projects.html#music-market-analysis-using-spotify-web-api-msc-thesis",
+    "title": "Projects",
+    "section": "2) Music market analysis using Spotify Web API (MSc thesis)",
+    "text": "2) Music market analysis using Spotify Web API (MSc thesis)\n\nGoal. Identify audio + market patterns associated with “hit” outcomes and translate them into decision support for record labels.\nWhat I show. - Data collection via Spotify Web API\n- Supervised + unsupervised ML (feature engineering, evaluation)\n- Practical interpretation for A&R / marketing decisions\nArtifacts. - Repo / report link:"
+  },
+  {
+    "objectID": "projects.html#open-source-peaxai-r-package-if-public",
+    "href": "projects.html#open-source-peaxai-r-package-if-public",
+    "title": "Projects",
+    "section": "3) Open-source: PEAXAI (R package) (if public)",
+    "text": "3) Open-source: PEAXAI (R package) (if public)\n\nGoal. Provide reproducible tools for probabilistic efficiency analysis + explainability.\nWhat I show. - Package docs + examples\n- Testing / CI (optional)\n- Reproducibility principles\nArtifacts. - CRAN / GitHub link: \n\n\nTips (to keep it “Spotify style”)\n\nOne paragraph per project: problem → method → result → decision\n\nPrefer 2–4 strong projects over many weak ones\n\nLink to code + a 1-page explanation (PDF or post)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "PhD candidate in Statistics, Optimization and Applied Mathematics (UMH). I work on ML methods that support transparent decision-making under uncertainty, with a particular interest in causal inference and counterfactual recommendations."
+  },
+  {
+    "objectID": "about.html#short-bio",
+    "href": "about.html#short-bio",
+    "title": "About",
+    "section": "",
+    "text": "PhD candidate in Statistics, Optimization and Applied Mathematics (UMH). I work on ML methods that support transparent decision-making under uncertainty, with a particular interest in causal inference and counterfactual recommendations."
+  },
+  {
+    "objectID": "about.html#what-im-looking-for",
+    "href": "about.html#what-im-looking-for",
+    "title": "About",
+    "section": "What I’m looking for",
+    "text": "What I’m looking for\nA Research Scientist internship where I can build causal tools that help teams make better decisions, ideally in the intersection of creators, users, and product."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: \n\nGitHub: \n\nLinkedIn:"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Short notes explaining methods in a product-oriented way (what it is, why it matters, how to use it).\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/causal-inference-dags.html",
+    "href": "posts/causal-inference-dags.html",
+    "title": "Causal inference with DAGs (a practical template)",
+    "section": "",
+    "text": "When a metric changes, we want to know whether an intervention caused it, not just whether it correlates."
+  },
+  {
+    "objectID": "posts/causal-inference-dags.html#the-goal",
+    "href": "posts/causal-inference-dags.html#the-goal",
+    "title": "Causal inference with DAGs (a practical template)",
+    "section": "",
+    "text": "When a metric changes, we want to know whether an intervention caused it, not just whether it correlates."
+  },
+  {
+    "objectID": "posts/causal-inference-dags.html#a-minimal-dag-workflow",
+    "href": "posts/causal-inference-dags.html#a-minimal-dag-workflow",
+    "title": "Causal inference with DAGs (a practical template)",
+    "section": "A minimal DAG workflow",
+    "text": "A minimal DAG workflow\n\nDefine treatment T, outcome Y, and pre-treatment covariates X\n\nDraw a DAG capturing your assumptions\n\nIdentify a valid adjustment set\n\nEstimate the effect (e.g., DR / DML)\n\nStress-test assumptions (sensitivity)"
+  },
+  {
+    "objectID": "posts/causal-inference-dags.html#what-id-report-to-a-product-team",
+    "href": "posts/causal-inference-dags.html#what-id-report-to-a-product-team",
+    "title": "Causal inference with DAGs (a practical template)",
+    "section": "What I’d report to a product team",
+    "text": "What I’d report to a product team\n\nEstimated effect size + uncertainty\n\nWhat assumptions are required\n\nWhat could break the conclusion\n\nRecommended decision (and safe next experiment)\n\n\nReplace this post with your own write-up and link to the corresponding notebook/repo."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a PhD candidate in Statistics / Applied Mathematics (grad. 2027) working on machine learning for decision-making under uncertainty, interpretability, and actionable recommendations.\nTarget role: Research Scientist Intern (Causal Inference & ML) — Summer 2026\nLocation: London (3 days/week on-site)"
+  },
+  {
+    "objectID": "index.html#highlighted-projects",
+    "href": "index.html#highlighted-projects",
+    "title": "Home",
+    "section": "Highlighted projects",
+    "text": "Highlighted projects\n\nCausal inference for product decisions — treatment effects, sensitivity checks, and actionable recommendations.\n→ See Projects.\nMusic market analysis using Spotify Web API — audio features, unsupervised + supervised ML, decision support for record labels.\n→ See Projects.\nOpen-source — PEAXAI (R package) + reproducible pipelines.\n→ See Research.\n\n\nPython R SQL Causal Inference Machine Learning XAI Calibration"
+  }
+]

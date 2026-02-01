@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ricardo González Moyano"
+  site-url: "https://github.com/rgonzalezmoyano"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+      - href: posts/index.qmd
+        text: Notes
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: "https://github.com/rgonzalezmoyano"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/ricardo-gonz%C3%A1lez-moyano-915930164/"
+  page-footer:
+    left: "© 2026 Ricardo González Moyano"
+    right:
+      - text: "CV (PDF)"
+        href: assets/cv.pdf
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

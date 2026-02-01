@@ -1,0 +1,11 @@
+---
+title: "Notes"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+---
+
+Short notes explaining methods in a product-oriented way (what it is, why it matters, how to use it).

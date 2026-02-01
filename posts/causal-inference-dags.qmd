@@ -1,0 +1,24 @@
+---
+title: "Causal inference with DAGs (a practical template)"
+date: 2026-01-10
+categories: [causal-inference, basics]
+---
+
+## The goal
+When a metric changes, we want to know **whether an intervention caused it**, not just whether it correlates.
+
+## A minimal DAG workflow
+1) Define treatment **T**, outcome **Y**, and pre-treatment covariates **X**  
+2) Draw a DAG capturing your assumptions  
+3) Identify a valid adjustment set  
+4) Estimate the effect (e.g., DR / DML)  
+5) Stress-test assumptions (sensitivity)
+
+## What I’d report to a product team
+- Estimated effect size + uncertainty  
+- What assumptions are required  
+- What could break the conclusion  
+- Recommended decision (and safe next experiment)
+
+> Replace this post with your own write-up and link to the corresponding notebook/repo.
+

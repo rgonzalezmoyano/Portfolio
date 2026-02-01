@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+## Short bio
+
+PhD candidate in Statistics, Optimization and Applied Mathematics (UMH). I work on ML methods that support transparent decision-making under uncertainty, with a particular interest in **causal inference** and **counterfactual recommendations**.
+
+## What I’m looking for
+A Research Scientist internship where I can build causal tools that help teams make better decisions, ideally in the intersection of creators, users, and product.
+
+## Contact
+- Email: <YOUR_EMAIL>  
+- GitHub: <YOUR_GITHUB_URL>  
+- LinkedIn: <YOUR_LINKEDIN_URL>
+

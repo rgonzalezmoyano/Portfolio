@@ -1,0 +1,52 @@
+---
+title: "Projects"
+---
+
+Below are projects selected to match **Research Scientist (Causal Inference + ML)** roles: problem framing, clean methodology, and decision relevance.
+
+## 1) Causal Inference: Estimating Treatment Effects (template)
+::: {.project-card}
+**Goal.** Estimate the causal impact of an intervention (e.g., a feature rollout or creator program) on an outcome metric.
+
+**What I show.**
+- Causal graph (DAG) and identification assumptions  
+- Estimation (e.g., propensity scores, doubly robust / DML)  
+- Sensitivity analysis and robustness checks  
+- “So what?” section: what decision changes
+
+**Artifacts.**
+- Notebook: `projects/causal_ate.ipynb` (add your link)  
+- Short write-up: `posts/causal-inference-dags.qmd`
+:::
+
+## 2) Music market analysis using Spotify Web API (MSc thesis)
+::: {.project-card}
+**Goal.** Identify audio + market patterns associated with “hit” outcomes and translate them into decision support for record labels.
+
+**What I show.**
+- Data collection via Spotify Web API  
+- Supervised + unsupervised ML (feature engineering, evaluation)  
+- Practical interpretation for A&R / marketing decisions
+
+**Artifacts.**
+- Repo / report link: <ADD_LINK>
+:::
+
+## 3) Open-source: PEAXAI (R package) (if public)
+::: {.project-card}
+**Goal.** Provide reproducible tools for probabilistic efficiency analysis + explainability.
+
+**What I show.**
+- Package docs + examples  
+- Testing / CI (optional)  
+- Reproducibility principles
+
+**Artifacts.**
+- CRAN / GitHub link: <ADD_LINK>
+:::
+
+### Tips (to keep it “Spotify style”)
+- One paragraph per project: **problem → method → result → decision**  
+- Prefer 2–4 strong projects over many weak ones  
+- Link to **code + a 1-page explanation** (PDF or post)
+

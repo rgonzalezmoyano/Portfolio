@@ -1,0 +1,59 @@
+---
+title: "Home"
+page-layout: full
+---
+
+::: {.hero}
+# Research Scientist Portfolio (Causal Inference + ML)
+
+I’m a PhD candidate in Statistics / Applied Mathematics (grad. 2027) working on machine learning for decision-making under uncertainty, interpretability, and actionable recommendations.
+
+**Target role:** Research Scientist Intern (Causal Inference & ML) — Summer 2026  
+**Location:** London (3 days/week on-site)
+
+:::
+
+::: {.kpi}
+::: {.card}
+**Core strengths**  
+- Causal thinking + counterfactuals  
+- ML modelling & validation  
+- Reproducible research (R/Python)
+:::
+
+::: {.card}
+**What I build**  
+- Decision-support tools  
+- Robust evaluation pipelines  
+- Practical, explainable insights
+:::
+
+::: {.card}
+**Quick links**  
+- GitHub: <YOUR_GITHUB_URL>  
+- LinkedIn: <YOUR_LINKEDIN_URL>  
+- Email: <YOUR_EMAIL>
+:::
+:::
+
+## Highlighted projects
+
+- **Causal inference for product decisions** — treatment effects, sensitivity checks, and actionable recommendations.  
+  → See **Projects**.
+
+- **Music market analysis using Spotify Web API** — audio features, unsupervised + supervised ML, decision support for record labels.  
+  → See **Projects**.
+
+- **Open-source** — PEAXAI (R package) + reproducible pipelines.  
+  → See **Research**.
+
+::: {.badges}
+<span class="badge">Python</span>
+<span class="badge">R</span>
+<span class="badge">SQL</span>
+<span class="badge">Causal Inference</span>
+<span class="badge">Machine Learning</span>
+<span class="badge">XAI</span>
+<span class="badge">Calibration</span>
+:::
+
